@@ -43,4 +43,4 @@ About the store:
 
 - Seed the database with test data.
 - Add screenshots to this repo.  In addition, you may also want to capture videos using Loom.  Please limit the length of the videos to a total of 10 minutes or less.
-- Please upload your code to a repository and add emails suhas@morphos.is, pawel@morphos.is, and win@morphos.is access to that repo.
+- Please upload your code to a repository and add emails suhas@morphos.is, peter@morphos.is, and win@morphos.is access to that repo.

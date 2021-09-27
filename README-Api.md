@@ -49,4 +49,4 @@ About the store:
 - Implement JWT authentication for sign_in steps
 - Rspec tests
 - Update this README to include a list of API endpoints
-- Please upload your code to a repository and add emails suhas@morphos.is, pawel@morphos.is, and win@morphos.is access to that repo.
+- Please upload your code to a repository and add emails suhas@morphos.is, peter@morphos.is, and win@morphos.is access to that repo.
